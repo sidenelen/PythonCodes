@@ -1,0 +1,16 @@
+__author__ = "Onur"
+
+#comment
+
+#variables below
+first = "Onur"
+last = "Gures"
+age=25
+
+print ("hello world")
+print ('hello world')
+
+print (first)
+print (first+ " " +last)
+
+print ("my name is %s %s, I am %d years old" % (first, last, age))
